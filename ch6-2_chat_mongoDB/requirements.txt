@@ -1,5 +1,0 @@
-flask 
-Flask-SocketIO 
-eventlet 
-greenlet
-pymongo
